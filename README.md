@@ -8,6 +8,6 @@
 
 ## Github stats
 
+![iugu](https://github.com/user-attachments/assets/80a29342-0873-4b39-b940-99649e88bb0d)
 
-![Nelcifran's GitHub stats](https://github-readme-stats.vercel.app/api?username=NelcifranSofto&show_icons=true&theme=radical)
 
