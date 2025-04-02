@@ -8,6 +8,6 @@
 
 ## Github stats
 
-![iugu](https://github.com/user-attachments/assets/80a29342-0873-4b39-b940-99649e88bb0d)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelcifranSofto&theme=radical&hide=css,scss,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 
